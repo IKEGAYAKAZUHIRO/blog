@@ -182,6 +182,7 @@
 - [【特集に参加しました】脱炭素大改正に備えよ！](https://blog.ikegaya.tokyo/posts/nikkeibp-2022-02-10-a2a13f/index.md): 2022-02-10 [実績紹介, 池谷執筆, 日経アーキテクチュア, 建築基準法, 建築物省エネ法, 法改正, 脱炭素大改正, 伝統構法, 建築確認] — 特集「脱炭素大改正に備えよ！」に参加しました。（日経アーキテクチュア 2022/02/10号） 日経クロステックの紹介文より： 建築物の脱炭素化へ、建築法規が激 …
 - [【制作を担当しました】建築訴訟「ここが知りたい」：事業承継先と金銭トラブル、建築家敗訴](https://blog.ikegaya.tokyo/posts/nikkeibp-2022-02-10-238ea6/index.md): 2022-02-10 [実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」] — 連載「建築訴訟「ここが知りたい」」の「事業承継先と金銭トラブル、建築家敗訴」の制作を担当しました。（日経アーキテクチュア 2022/02/10号。連載の第50回 …
 - [【制作を担当しました】建築訴訟「ここが知りたい」：アスベスト被害は「建物所有者らの責任」](https://blog.ikegaya.tokyo/posts/nikkeibp-2022-01-13-f7604b/index.md): 2022-01-13 [実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」] — 連載「建築訴訟「ここが知りたい」」の「アスベスト被害は「建物所有者らの責任」」の制作を担当しました。（日経アーキテクチュア 2022/01/13号。連載の第49 …
+- [【書籍を制作しました】建築 意匠権対策マニュアル](https://blog.ikegaya.tokyo/posts/book-2021-12-27-ishoken/index.md): 2021-12-27 [実績紹介, 書籍, 日経アーキテクチュア, 意匠法, 意匠登録] — 書籍『建築 意匠権対策マニュアル』を、日経アーキテクチュアとの編著で制作しました。（日経BP、2021年12月27日発行、A5判 256ページ、ISBN …
 - [【執筆しました】無観客五輪が象徴 苦難のウィズコロナ](https://blog.ikegaya.tokyo/posts/nikkeibp-2021-12-23-ccf7a3/index.md): 2021-12-23 [実績紹介, 池谷執筆, 日経アーキテクチュア] — 「無観客五輪が象徴 苦難のウィズコロナ」を執筆しました。 日経クロステックの紹介文より： 2020年に続き、コロナ禍に翻弄された21年。延期となっていた東京五輪 …
 - [【制作を担当しました】建築訴訟「ここが知りたい」：裁かれた耐震技術巡る研究費不正](https://blog.ikegaya.tokyo/posts/nikkeibp-2021-12-09-9e1eb6/index.md): 2021-12-09 [実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」] — 連載「建築訴訟「ここが知りたい」」の「裁かれた耐震技術巡る研究費不正」の制作を担当しました。（日経アーキテクチュア 2021/12/09号。連載の第48回） 著 …
 - [【制作を担当しました】建築訴訟「ここが知りたい」：計画迷走のツケが設計者に](https://blog.ikegaya.tokyo/posts/nikkeibp-2021-11-11-f0205d/index.md): 2021-11-11 [実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」] — 連載「建築訴訟「ここが知りたい」」の「計画迷走のツケが設計者に」の制作を担当しました。（日経アーキテクチュア 2021/11/11号。連載の第47回） 著者は秋 …
@@ -963,9 +964,9 @@
 
 ## タグ
 
-- [実績紹介](https://blog.ikegaya.tokyo/tags/%E5%AE%9F%E7%B8%BE%E7%B4%B9%E4%BB%8B/): 953 件
+- [実績紹介](https://blog.ikegaya.tokyo/tags/%E5%AE%9F%E7%B8%BE%E7%B4%B9%E4%BB%8B/): 954 件
 - [池谷執筆](https://blog.ikegaya.tokyo/tags/%E6%B1%A0%E8%B0%B7%E5%9F%B7%E7%AD%86/): 843 件
-- [日経アーキテクチュア](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2/): 390 件
+- [日経アーキテクチュア](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2/): 391 件
 - [日経ホームビルダー（休刊）](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E4%BC%91%E5%88%8A/): 369 件
 - [ケンプラッツ](https://blog.ikegaya.tokyo/tags/%E3%82%B1%E3%83%B3%E3%83%97%E3%83%A9%E3%83%83%E3%83%84/): 161 件
 - [日経クロステック](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF/): 138 件
@@ -1005,13 +1006,14 @@
 - [耐震補強](https://blog.ikegaya.tokyo/tags/%E8%80%90%E9%9C%87%E8%A3%9C%E5%BC%B7/): 8 件
 - [免震偽装](https://blog.ikegaya.tokyo/tags/%E5%85%8D%E9%9C%87%E5%81%BD%E8%A3%85/): 7 件
 - [契約トラブル](https://blog.ikegaya.tokyo/tags/%E5%A5%91%E7%B4%84%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB/): 7 件
+- [意匠法](https://blog.ikegaya.tokyo/tags/%E6%84%8F%E5%8C%A0%E6%B3%95/): 7 件
 - [脱炭素](https://blog.ikegaya.tokyo/tags/%E8%84%B1%E7%82%AD%E7%B4%A0/): 7 件
 - [脱炭素大改正](https://blog.ikegaya.tokyo/tags/%E8%84%B1%E7%82%AD%E7%B4%A0%E5%A4%A7%E6%94%B9%E6%AD%A3/): 7 件
 - [CLT](https://blog.ikegaya.tokyo/tags/clt/): 6 件
 - [免震](https://blog.ikegaya.tokyo/tags/%E5%85%8D%E9%9C%87/): 6 件
 - [国産材](https://blog.ikegaya.tokyo/tags/%E5%9B%BD%E7%94%A3%E6%9D%90/): 6 件
 - [工務店](https://blog.ikegaya.tokyo/tags/%E5%B7%A5%E5%8B%99%E5%BA%97/): 6 件
-- [意匠法](https://blog.ikegaya.tokyo/tags/%E6%84%8F%E5%8C%A0%E6%B3%95/): 6 件
+- [意匠登録](https://blog.ikegaya.tokyo/tags/%E6%84%8F%E5%8C%A0%E7%99%BB%E9%8C%B2/): 6 件
 - [新設住宅着工戸数](https://blog.ikegaya.tokyo/tags/%E6%96%B0%E8%A8%AD%E4%BD%8F%E5%AE%85%E7%9D%80%E5%B7%A5%E6%88%B8%E6%95%B0/): 6 件
 - [破壊実験](https://blog.ikegaya.tokyo/tags/%E7%A0%B4%E5%A3%8A%E5%AE%9F%E9%A8%93/): 6 件
 - [通気工法](https://blog.ikegaya.tokyo/tags/%E9%80%9A%E6%B0%97%E5%B7%A5%E6%B3%95/): 6 件
@@ -1023,7 +1025,6 @@
 - [実務に役立つ法令解説](https://blog.ikegaya.tokyo/tags/%E5%AE%9F%E5%8B%99%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%B3%95%E4%BB%A4%E8%A7%A3%E8%AA%AC/): 5 件
 - [実大火災実験](https://blog.ikegaya.tokyo/tags/%E5%AE%9F%E5%A4%A7%E7%81%AB%E7%81%BD%E5%AE%9F%E9%A8%93/): 5 件
 - [建材偽装](https://blog.ikegaya.tokyo/tags/%E5%BB%BA%E6%9D%90%E5%81%BD%E8%A3%85/): 5 件
-- [意匠登録](https://blog.ikegaya.tokyo/tags/%E6%84%8F%E5%8C%A0%E7%99%BB%E9%8C%B2/): 5 件
 - [断熱材](https://blog.ikegaya.tokyo/tags/%E6%96%AD%E7%86%B1%E6%9D%90/): 5 件
 - [新潟県中越地震](https://blog.ikegaya.tokyo/tags/%E6%96%B0%E6%BD%9F%E7%9C%8C%E4%B8%AD%E8%B6%8A%E5%9C%B0%E9%9C%87/): 5 件
 - [木造中高層](https://blog.ikegaya.tokyo/tags/%E6%9C%A8%E9%80%A0%E4%B8%AD%E9%AB%98%E5%B1%A4/): 5 件
@@ -1094,6 +1095,7 @@
 - [施工](https://blog.ikegaya.tokyo/tags/%E6%96%BD%E5%B7%A5/): 1 件
 - [施設](https://blog.ikegaya.tokyo/tags/%E6%96%BD%E8%A8%AD/): 1 件
 - [日経SYSTEMS（休刊）](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8Csystems%E4%BC%91%E5%88%8A/): 1 件
+- [書籍](https://blog.ikegaya.tokyo/tags/%E6%9B%B8%E7%B1%8D/): 1 件
 - [有名建築](https://blog.ikegaya.tokyo/tags/%E6%9C%89%E5%90%8D%E5%BB%BA%E7%AF%89/): 1 件
 - [模様替え](https://blog.ikegaya.tokyo/tags/%E6%A8%A1%E6%A7%98%E6%9B%BF%E3%81%88/): 1 件
 - [法制度](https://blog.ikegaya.tokyo/tags/%E6%B3%95%E5%88%B6%E5%BA%A6/): 1 件
