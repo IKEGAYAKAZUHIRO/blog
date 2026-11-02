@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2023-05-25-b09e77/
 - 公開: 2023-05-25
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, コンクリート, GX, 脱炭素
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 特集への参加（特集全体の著者ではない。本人が書いたのは本文に並べた記事だけ）
 
 ---
 

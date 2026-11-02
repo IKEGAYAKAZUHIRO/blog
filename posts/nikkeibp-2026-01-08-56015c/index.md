@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2026-01-08-56015c/
 - 公開: 2026-01-08
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 新設住宅着工戸数, 住宅市場
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 特集への参加（特集全体の著者ではない。本人が書いたのは本文に並べた記事だけ）
 
 ---
 

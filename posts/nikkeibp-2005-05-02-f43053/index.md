@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2005-05-02-f43053/
 - 公開: 2005-05-02
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 壁倍率
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 執筆（本人が著者）
 
 ---
 

@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2005-06-01-8c0b18/
 - 公開: 2005-06-01
 - タグ: 実績紹介, 池谷執筆, 日経ホームビルダー（休刊）, 住宅事件簿, 火災
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 執筆（本人が著者）
 
 ---
 

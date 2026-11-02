@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2025-02-13-8d8053/
 - 公開: 2025-02-13
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 脱炭素大改正, 省エネ基準適合義務化, 4号特例見直し
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 特集への参加（特集全体の著者ではない。本人が書いたのは本文に並べた記事だけ）
 
 ---
 

@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2011-02-21-7e0596/
 - 公開: 2011-02-21
 - タグ: 実績紹介, 池谷執筆, ケンプラッツ, 日経ホームビルダー（休刊）, シロアリ
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 執筆（本人が著者）
 
 ---
 

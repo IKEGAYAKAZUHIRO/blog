@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2026-05-01-72fdf0/
 - 公開: 2026-05-01
 - タグ: 実績紹介, 池谷執筆, 日経コンストラクション, 熊本地震, 熊本城, 復旧
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 再録（本人が著者）
 
 ---
 

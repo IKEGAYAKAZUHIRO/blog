@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2015-12-24-87aa0f/
 - 公開: 2015-12-24
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 免震偽装, 新国立競技場
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 執筆（本人が著者）
 
 ---
 

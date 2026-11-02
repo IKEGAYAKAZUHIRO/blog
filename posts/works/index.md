@@ -3,7 +3,7 @@
 - URL: https://blog.ikegaya.tokyo/posts/works/
 - 公開: 2026-11-02
 - タグ: 実績紹介
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
 
 ---
 
@@ -13,3 +13,5 @@
 （掲載のお知らせが更新されるたびにグラフも更新されるはず）
 
 なお分野は、記事の題と紹介文に出てくる言葉からclaude codeが自動で雑に仕分けたものなので、間違ってたらゴメン……。集計以前の仕事や、日経BP以外から発注を受けたお仕事（非署名多し）も含んでいません。
+
+※ このページは、日経BPの媒体に載った仕事のうち、ネットで確かめられたものの索引です（いちばん古いものは1999年）。すべての仕事を網羅するものではありません。

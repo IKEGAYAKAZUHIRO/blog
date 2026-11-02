@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2024-09-04-5a4452/
 - 公開: 2024-09-04
 - タグ: 実績紹介, 池谷執筆, 日経クロステック, 住宅事件簿, 住宅紛争
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 再録（本人が著者）
 
 ---
 

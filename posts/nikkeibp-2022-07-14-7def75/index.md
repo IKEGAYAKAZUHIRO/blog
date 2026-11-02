@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2022-07-14-7def75/
 - 公開: 2022-07-14
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 高層木造, 大林組, 木造建築
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 特集への参加（特集全体の著者ではない。本人が書いたのは本文に並べた記事だけ）
 
 ---
 

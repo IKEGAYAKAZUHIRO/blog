@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2026-08-27-81db26/
 - 公開: 2026-08-27
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 日経クロステック, 2026年熊本地震, 熊本地震, 免震建物
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 取材班への参加（本人は著者ではない）
 
 ---
 

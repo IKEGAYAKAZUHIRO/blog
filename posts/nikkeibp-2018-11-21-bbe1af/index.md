@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2018-11-21-bbe1af/
 - 公開: 2018-11-21
 - タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 免震偽装, KYB, データ改ざん
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 共同執筆（本人が著者）
 
 ---
 

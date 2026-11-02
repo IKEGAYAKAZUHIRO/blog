@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2010-09-01-cfd382/
 - 公開: 2010-09-01
 - タグ: 実績紹介, 池谷執筆, ケンプラッツ, 日経ホームビルダー（休刊）, 木造住宅, 構造材腐朽
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 執筆（本人が著者）
 
 ---
 

@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2023-05-11-cf2110/
 - 公開: 2023-05-11
 - タグ: 実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 制作担当（本人は著者ではない）。元の仕事の著者: 富田裕
 
 ---
 

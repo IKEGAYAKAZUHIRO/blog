@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2025-02-19-2c6335/
 - 公開: 2025-02-19
 - タグ: 実績紹介, 池谷執筆, 日経クロステック, 住宅事件簿, 地盤, 住宅紛争, 不同沈下
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 再録（本人が著者）
 
 ---
 

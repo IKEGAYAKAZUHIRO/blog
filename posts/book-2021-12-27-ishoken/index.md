@@ -3,7 +3,8 @@
 - URL: https://blog.ikegaya.tokyo/posts/book-2021-12-27-ishoken/
 - 公開: 2021-12-27
 - タグ: 実績紹介, 書籍, 日経アーキテクチュア, 意匠法, 意匠登録
-- 書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
+- 元の仕事での関わり方: 書籍の制作（本人は著者ではない）
 
 ---
 
