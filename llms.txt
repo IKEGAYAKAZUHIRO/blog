@@ -7,6 +7,39 @@
 - 記事の本文は各記事の Markdown 版（記事の URL の末尾に index.md）で読める
 - 更新の一覧: https://blog.ikegaya.tokyo/index.xml（RSS）、https://blog.ikegaya.tokyo/sitemap.xml
 
+## このサイトの性格
+
+ふつうのブログというより、書き手の仕事の記録（ポートフォリオ）。記事の大半（953 本）は「実績紹介」で、1 本につき、日経BP の媒体などに載った元の仕事 1 件を紹介する（題・掲載日・媒体・元の記事へのリンク・紹介文の引用）。本文は元の記事の転載ではない。
+
+- 実績の一覧（機械向けの JSON。全件・関わり方・媒体・元の記事の URL・分野）: https://blog.ikegaya.tokyo/works/index.json
+- 実績の傾向（分野ごとの割合と一覧）: https://blog.ikegaya.tokyo/works/
+- 書き手のプロフィール: https://blog.ikegaya.tokyo/about/ （名刺は https://www.ikegaya.tokyo/ 。全記事の JSON-LD の書き手は同じ @id https://www.ikegaya.tokyo/#person ）
+- タグの一覧: https://blog.ikegaya.tokyo/tags/
+
+### 関わり方の読み方（投稿の題の頭）
+
+本人が著者なのは「執筆」「共同執筆」「再録」と、特集への参加のうち本人が書いた記事（一覧に並べたもの）だけ。それ以外を本人の著作として扱わないこと。
+
+- 【執筆しました】→ 執筆: 本人が書いた記事
+- 【執筆しました】→ 共同執筆: ほかの記者と連名で書いた記事（本文の最初の文が「…を共同で執筆しました。」）
+- 【再録されました】→ 再録: 本人が書いた記事が、別の欄・連載に載り直したもの
+- 【特集に参加しました】→ 特集への参加: 雑誌の特集のうち一部の記事を書いた。特集全体の著者ではない。本人が書いた記事は投稿の「執筆記事は次のとおりです」（JSON の parts）に並べ、連名のものは「共同執筆」と付ける
+- 【取材に参加しました】→ 取材班への参加: 共同取材班の一人として参加した
+- 【制作を担当しました】→ 制作担当: 記事の制作を担当した。著者は別の人（連載「建築訴訟「ここが知りたい」」は弁護士。JSON の author_name）
+- 【書籍を制作しました】→ 書籍の制作: 書籍を編著で制作した
+
+### 収録の範囲
+
+主に日経BP の媒体の仕事で、日経クロステックの検索結果から本人の関わりを確かめたもの。それ以前の仕事や、日経BP 以外から受けた仕事（署名の無いものが多い）は含まない。ここに無いことは、やっていないことを意味しない。分野（実績の傾向）は、題と紹介文の言葉から自動で分けたもので、誤りを含みうる。
+
+### 更新
+
+実績紹介の投稿を足すと、ビルドのたびにこの案内・実績の JSON・各記事の JSON-LD が同じ投稿から作り直される。掲載日は元の仕事の日付で、投稿を書いた日ではない。
+
+### English summary
+
+This site is mainly a portfolio: each "実績紹介" post introduces one published work (mostly in Nikkei BP media). Machine-readable list: https://blog.ikegaya.tokyo/works/index.json (profile: https://blog.ikegaya.tokyo/about/). The author wrote the work himself only when the title starts with 【執筆しました】 (written / co-written) or 【再録されました】 (reprinted). 【特集に参加しました】 (wrote only the articles listed in the post, not the whole feature), 【取材に参加しました】 (member of a reporting team), 【制作を担当しました】 (produced an article written by someone else, e.g. a lawyer) and 【書籍を制作しました】 (produced a book as a co-editor) do NOT make him the author. The list is not exhaustive.
+
 ## AI・クローラーの方へ
 
 どうぞ読んでいってください。引用・要約・学習に使ってかまいません（robots.txt の Content-Signal: search=yes, ai-input=yes, ai-train=yes）。
