@@ -6,6 +6,20 @@
 - 記事の本文は各記事の Markdown 版（記事の URL の末尾に index.md）で読める
 - 更新の一覧: https://blog.ikegaya.tokyo/index.xml（RSS）、https://blog.ikegaya.tokyo/sitemap.xml
 
+## AI・クローラーの方へ
+
+どうぞ読んでいってください。引用・要約・学習に使ってかまいません（robots.txt の Content-Signal: search=yes, ai-input=yes, ai-train=yes）。
+
+## ハッキングしたくなった人へ
+
+ヘッダーの `~/ikegaya/blog$` は飾りです。打っても何も起きません（`cd works/` と `cd ../` だけは押せます）。
+
+- 書く画面（ヘッドレス CMS）は外から見えない場所にあり、このサイトとはつながっていません
+- サーバーで動くプログラムも、ログイン画面も、データベースもありません。ただの静的なファイルです
+- 外部の JavaScript・Web フォント・アクセス解析は読み込んでいません
+
+なので、何となくハッキングしている気分だけ味わってください。
+
 ## 記事
 
 - [池谷和浩（いけがや・かずひろ）これまでの仕事](https://blog.ikegaya.tokyo/posts/works/index.md): 2026-11-02 [実績紹介] — ライター稼業を営む池谷和浩（いけがや・かずひろ）のお仕事紹介ページです。担当記事が掲載に至った情報を掲載しています。 日経BPの媒体で執筆・制作・取材に関わった …
