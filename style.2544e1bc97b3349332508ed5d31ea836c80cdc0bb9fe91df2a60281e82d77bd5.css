@@ -18,7 +18,8 @@ a { color:var(--link); text-decoration:none; } a:hover { text-decoration:underli
   padding:1.2rem 24px .8rem; border-bottom:1px solid var(--line); margin-bottom:1.5rem; }
 .site-header .site { display:inline-flex; flex-wrap:wrap; align-items:center; font-family:var(--mono); font-weight:bold; color:var(--fg); }
 .site-header .home { display:inline-flex; align-items:center; gap:.6rem; color:inherit; }
-.site-header .home:hover { text-decoration:none; }
+.site-header .home a { display:inline-flex; color:inherit; }
+.site-header .prompt a:hover { text-decoration:underline; }   /* ~/ikegaya（www へ）と /blog…$（トップへ）は別のリンク。どこまでが一つか、触れたときに下線でわかる */
 .site-header .logo { width:var(--logo); height:var(--logo); flex:none; }
 .site-header .prompt { color:var(--prompt); }   /* 端末のプロンプト風: 緑の字、後ろに打ったコマンドと点滅するカーソル */
 .site-header .tail { display:inline-flex; align-items:stretch; margin-left:.6em; white-space:nowrap; }   /* コマンドとカーソルは折り返しても離さず、天地を揃える */
