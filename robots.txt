@@ -2,5 +2,5 @@ User-agent: *
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
-# AI 向けの案内（記事の一覧と Markdown 版へのリンク）: https://blog.ikegaya.tokyo/llms.txt
+# 当面はプロフィールだけ。実績は https://works.ikegaya.tokyo/ （AI 向けの案内: https://works.ikegaya.tokyo/llms.txt）
 Sitemap: https://blog.ikegaya.tokyo/sitemap.xml
