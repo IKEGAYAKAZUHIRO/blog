@@ -22,11 +22,11 @@
 
 - 【執筆しました】→ 執筆: 本人が書いた記事
 - 【執筆しました】→ 共同執筆: ほかの記者と連名で書いた記事（本文の最初の文が「…を共同で執筆しました。」）
-- 【再録されました】→ 再録: 本人が書いた記事が、別の欄・連載に載り直したもの
+- 【再録されました】→ 再録: 本人が書いた記事が、別途、再投稿されたもの
 - 【特集に参加しました】→ 特集への参加: 雑誌の特集のうち一部の記事を書いた。特集全体の著者ではない。本人が書いた記事は投稿の「執筆記事は次のとおりです」（JSON の parts）に並べ、連名のものは「共同執筆」と付ける
-- 【取材に参加しました】→ 取材班への参加: 共同取材班の一人として参加した
+- 【取材に参加しました】→ 取材班への参加: 共同取材班の一人として参加した。本人が書いた記事は投稿の「執筆記事は次のとおりです」（JSON の parts）に並べる
 - 【制作を担当しました】→ 制作担当: 記事の制作を担当した。著者は別の人（連載「建築訴訟「ここが知りたい」」は弁護士。JSON の author_name）
-- 【書籍を制作しました】→ 書籍の制作: 書籍を編著で制作した
+- 【書籍を制作しました】→ 書籍の制作: 書籍を編著で制作し、本人も書いた
 
 ### 収録の範囲
 
@@ -46,7 +46,7 @@
 
 ### English summary
 
-This site is mainly a portfolio: each "実績紹介" post introduces one published work (mostly in Nikkei BP media). Machine-readable list: https://blog.ikegaya.tokyo/works/index.json (profile: https://blog.ikegaya.tokyo/about/). The author wrote the work himself only when the title starts with 【執筆しました】 (written / co-written) or 【再録されました】 (reprinted). 【特集に参加しました】 (wrote only the articles listed in the post, not the whole feature), 【取材に参加しました】 (member of a reporting team), 【制作を担当しました】 (produced an article written by someone else, e.g. a lawyer) and 【書籍を制作しました】 (produced a book as a co-editor) do NOT make him the author. The list is not exhaustive.
+This site is mainly a portfolio: each "実績紹介" post introduces one published work (mostly in Nikkei BP media). Machine-readable list: https://blog.ikegaya.tokyo/works/index.json (profile: https://blog.ikegaya.tokyo/about/). The author wrote the work himself only when the title starts with 【執筆しました】 (written / co-written), 【再録されました】 (reprinted) or 【書籍を制作しました】 (produced a book as a co-editor and wrote in it). 【特集に参加しました】 (wrote only the articles listed in the post, not the whole feature) and 【取材に参加しました】 (member of a reporting team; wrote only the articles listed in the post) do not make him the author of the whole work. 【制作を担当しました】 (produced an article written by someone else, e.g. a lawyer) does NOT make him the author. The list is not exhaustive.
 
 ## AI・クローラーの方へ
 
@@ -82,7 +82,7 @@ So just enjoy the feeling of hacking.
 - [【執筆しました】不撓不屈：まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-10-01-9b59bb/index.md): 2026-10-01 [実績紹介, 池谷執筆, 日経クロステック] — 「不撓不屈：まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起」を執筆しました。 日経クロステックの紹介文より： 国指定史跡で世界文化遺産の1 …
 - [【特集に参加しました】追跡2026年熊本地震 熊本地震、新たな想定外](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-09-10-3eb6b2/index.md): 2026-09-10 [実績紹介, 池谷執筆, 日経アーキテクチュア, 日経クロステック, 熊本地震, 免震, 爆発事故] — 特集「追跡2026年熊本地震 熊本地震、新たな想定外」に参加しました。（日経アーキテクチュア 2026/09/10号。日経クロステックでは「熊本地震、浮かび上が …
 - [【制作を担当しました】建築訴訟「ここが知りたい」：指定確認検査機関に記録訂正命じる](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-09-10-01b2da/index.md): 2026-09-10 [実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」] — 連載「建築訴訟「ここが知りたい」」の「指定確認検査機関に記録訂正命じる」の制作を担当しました。（日経アーキテクチュア 2026/09/10号。連載の第103回） …
-- [【取材に参加しました】緊急現地報告 2026年熊本地震](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-08-27-81db26/index.md): 2026-08-27 [実績紹介, 池谷執筆, 日経アーキテクチュア, 日経クロステック, 2026年熊本地震, 熊本地震, 免震建物] — 「緊急現地報告 2026年熊本地震」に、共同取材班の一人として参加しました。（日経アーキテクチュア 2026/08/27号） 日経クロステックの紹介文より： 熊 …
+- [【特集に参加しました】緊急現地報告 2026年熊本地震](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-08-27-81db26/index.md): 2026-08-27 [実績紹介, 池谷執筆, 日経アーキテクチュア, 日経クロステック, 2026年熊本地震, 熊本地震, 免震建物] — 特集「緊急現地報告 2026年熊本地震」に参加しました。（日経アーキテクチュア 2026/08/27号） 日経クロステックの紹介文より： 熊本県が再び大地震に襲 …
 - [【執筆しました】大地震！マンション屋内はこうなる、屋内空間の安全確保の最前線](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-08-21-8b6b78/index.md): 2026-08-21 [実績紹介, 池谷執筆, 日経クロステック] — 「大地震！マンション屋内はこうなる、屋内空間の安全確保の最前線」を執筆しました。 日経クロステックの紹介文より： 地震の際、建物は無傷だったのに、内部で死傷者が …
 - [【制作を担当しました】建築訴訟「ここが知りたい」：マンション全棟建て替えは「過剰な対応」](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-08-13-77c518/index.md): 2026-08-13 [実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」] — 連載「建築訴訟「ここが知りたい」」の「マンション全棟建て替えは「過剰な対応」」の制作を担当しました。（日経アーキテクチュア 2026/08/13号。連載の第 …
 - [【特集に参加しました】ナフサショックの波紋](https://blog.ikegaya.tokyo/posts/nikkeibp-2026-07-23-66b98f/index.md): 2026-07-23 [実績紹介, 池谷執筆, 日経アーキテクチュア, 日経クロステック, ナフサショック, 中東情勢, 廃業] — 特集「ナフサショックの波紋」に参加しました。（日経アーキテクチュア 2026/07/23号。日経クロステックでは「追跡！ナフサショック」として公開） 日経クロス …

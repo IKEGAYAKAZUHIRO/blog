@@ -22,11 +22,11 @@
 
 - 【執筆しました】→ 執筆: 本人が書いた記事
 - 【執筆しました】→ 共同執筆: ほかの記者と連名で書いた記事（本文の最初の文が「…を共同で執筆しました。」）
-- 【再録されました】→ 再録: 本人が書いた記事が、別の欄・連載に載り直したもの
+- 【再録されました】→ 再録: 本人が書いた記事が、別途、再投稿されたもの
 - 【特集に参加しました】→ 特集への参加: 雑誌の特集のうち一部の記事を書いた。特集全体の著者ではない。本人が書いた記事は投稿の「執筆記事は次のとおりです」（JSON の parts）に並べ、連名のものは「共同執筆」と付ける
-- 【取材に参加しました】→ 取材班への参加: 共同取材班の一人として参加した
+- 【取材に参加しました】→ 取材班への参加: 共同取材班の一人として参加した。本人が書いた記事は投稿の「執筆記事は次のとおりです」（JSON の parts）に並べる
 - 【制作を担当しました】→ 制作担当: 記事の制作を担当した。著者は別の人（連載「建築訴訟「ここが知りたい」」は弁護士。JSON の author_name）
-- 【書籍を制作しました】→ 書籍の制作: 書籍を編著で制作した
+- 【書籍を制作しました】→ 書籍の制作: 書籍を編著で制作し、本人も書いた
 
 ### 収録の範囲
 
@@ -46,7 +46,7 @@
 
 ### English summary
 
-This site is mainly a portfolio: each "実績紹介" post introduces one published work (mostly in Nikkei BP media). Machine-readable list: https://blog.ikegaya.tokyo/works/index.json (profile: https://blog.ikegaya.tokyo/about/). The author wrote the work himself only when the title starts with 【執筆しました】 (written / co-written) or 【再録されました】 (reprinted). 【特集に参加しました】 (wrote only the articles listed in the post, not the whole feature), 【取材に参加しました】 (member of a reporting team), 【制作を担当しました】 (produced an article written by someone else, e.g. a lawyer) and 【書籍を制作しました】 (produced a book as a co-editor) do NOT make him the author. The list is not exhaustive.
+This site is mainly a portfolio: each "実績紹介" post introduces one published work (mostly in Nikkei BP media). Machine-readable list: https://blog.ikegaya.tokyo/works/index.json (profile: https://blog.ikegaya.tokyo/about/). The author wrote the work himself only when the title starts with 【執筆しました】 (written / co-written), 【再録されました】 (reprinted) or 【書籍を制作しました】 (produced a book as a co-editor and wrote in it). 【特集に参加しました】 (wrote only the articles listed in the post, not the whole feature) and 【取材に参加しました】 (member of a reporting team; wrote only the articles listed in the post) do not make him the author of the whole work. 【制作を担当しました】 (produced an article written by someone else, e.g. a lawyer) does NOT make him the author. The list is not exhaustive.
 
 ## AI・クローラーの方へ
 
