@@ -91,6 +91,7 @@ pre code { font-size:.85rem; }
 .paginator .pages { color:var(--muted); font-family:var(--mono); }
 .cover-label { fill:#e6edf3;   /* 模様の真ん中の役割の文字（記事執筆・制作担当・取材参加。Stick の輪郭） */
   stroke:var(--cover-bg); stroke-width:.11; stroke-linejoin:round; paint-order:stroke; }   /* 字の形に沿って模様の地の色で縁取り（透かさない）。太さは字の大きさ 1 に対して（字の大きさ 3.2 で約 .35 マス） */
+article > .cover .cover-label-g, .newest > a > .cover .cover-label-g { transform-box:view-box; transform-origin:50% 50%; transform:scale(.5); }   /* 記事のページとトップのいちばん新しい投稿の大きい模様だけ字を小さく（固定の投稿のグラフの真ん中の字とそろえる。一覧の小さい模様はそのまま。ユーザー、2026-11-03） */
 .cover { display:block; width:100%; height:auto; aspect-ratio:1280/670; object-fit:cover; margin:.5rem 0 1.5rem; }   /* note と同じ 1.91:1。角は丸めない（四角いマスの模様に合わせる。ユーザー、2026-11-02）。比率の違う画像は真ん中を切り出す */
 @media (max-width:600px) {   /* スマホは note と同じく画像を画面の端まで広げ、タイトルの字を小さく */
   .cover { width:calc(100% + 2rem); max-width:none; margin-left:-1rem; margin-right:-1rem; border-radius:0; }
