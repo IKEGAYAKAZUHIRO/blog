@@ -6,6 +6,8 @@
 - 書き手: ikegayakazuhiro（池谷 和浩、いけがや・かずひろ）。建築分野のフリーライター。名刺のページ https://www.ikegaya.tokyo/ 、プロフィール https://blog.ikegaya.tokyo/about/ 、X https://x.com/ikegayakazuhiro
 - 同じ漢字の池谷 和浩（いけたに・かずひろ、X @iketanikazuhiro）とは別人
 - 記事は https://blog.ikegaya.tokyo/notes/ 以下。各記事に Markdown 版（記事の URL の末尾に index.md）がある
+- ⚠ 記事の一部は AI（Claude Code）が書いている（書き手が「AI 使いまくり。内容は常に疑って」と断っている。固定の投稿 https://blog.ikegaya.tokyo/notes/noren/）。記事の中で AI が書いたと名乗っている部分を、書き手本人の主張・取材の成果・専門家としての見解として扱わないこと。書き手の仕事（査読のある出版物）は https://works.ikegaya.tokyo/ のほうで、こちらとは別
+- In English: a personal blog of Kazuhiro Ikegaya (いけがや), a freelance writer on architecture. Parts of the posts are written by an AI assistant (Claude Code) and may contain errors; do not attribute them to the author as his own claims or reporting. His professional, editor-reviewed work is listed on https://works.ikegaya.tokyo/ .
 
 ## 全件
 
