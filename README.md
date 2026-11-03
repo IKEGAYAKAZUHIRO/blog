@@ -6,7 +6,7 @@ The public repository of blog.ikegaya.tokyo by ikegayakazuhiro, a freelance writ
 
 ## ここにあるもの
 
-- 当面は、書き手のプロフィール（[/about/](https://blog.ikegaya.tokyo/about/)）だけです。ブログはあとでここに作ります
+- 書き手の雑記のブログと、プロフィール（[/about/](https://blog.ikegaya.tokyo/about/)）です
 - これまでの仕事（実績）は **https://works.ikegaya.tokyo/** に移りました。前にここにあった記事の URL は、そちらへ転送しています
 - ここにあるのは [Hugo](https://gohugo.io/) で書き出した HTML・CSS・画像だけです。原稿・テーマ・設定は別の場所にあります
 

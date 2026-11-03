@@ -1,0 +1,12 @@
+# ikegaya blog
+
+> 建築分野のフリーライター 池谷 和浩（いけがや・かずひろ）の雑記
+
+- このサイトは書き手の雑記のブログ。これまでの仕事（執筆・制作・取材の実績）は別のサイト https://works.ikegaya.tokyo/ にある（AI 向けの案内: https://works.ikegaya.tokyo/llms.txt）
+- 書き手: ikegayakazuhiro（池谷 和浩、いけがや・かずひろ）。建築分野のフリーライター。名刺のページ https://www.ikegaya.tokyo/ 、プロフィール https://blog.ikegaya.tokyo/about/ 、X https://x.com/ikegayakazuhiro
+- 同じ漢字の池谷 和浩（いけたに・かずひろ、X @iketanikazuhiro）とは別人
+- 記事は https://blog.ikegaya.tokyo/notes/ 以下。各記事に Markdown 版（記事の URL の末尾に index.md）がある
+
+## 全件
+
+- 全記事（新しい順、各記事の Markdown 版へのリンク）とタグの一覧: https://blog.ikegaya.tokyo/llms-full.txt
