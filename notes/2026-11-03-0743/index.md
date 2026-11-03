@@ -2,9 +2,12 @@
 
 - URL: https://blog.ikegaya.tokyo/notes/2026-11-03-0743/
 - 公開: 2026-11-03
+- タグ: Home labo
 - この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
 
 ---
+
+## 原理的にハッキングできなくする
 
 取りあえずドメイントップページと2つのサブドメインを公開した。
 
@@ -14,11 +17,11 @@
 
 [https://works.ikegaya.tokyo/](https://works.ikegaya.tokyo/)
 
-これらのサイトは公開サーバ上にCMSを置かないいわゆるヘッドレスCMSとなっていて、実態は[GitHub Pages](https://docs.github.com/ja/pages)にあり、データは自宅のGIT互換サーバを更新した上で同期している。DoS攻撃とかした者はMicrosoftから激しく怒られ地獄に落ち、うちのサイトはサーバ回復後速やかに復旧できる。
+これらのサイトは公開サーバ上にCMSを置かないいわゆるヘッドレスCMSとなっていて、実態は[GitHub Pages](https://docs.github.com/ja/pages)にあり、データは自宅のGIT互換サーバを更新した上で同期している。DoS攻撃とかした者はMicrosoftから激しく怒られ地獄に落ち、うちのサイトはサーバ回復後速やかに復旧できる仕組みだ。なおDoSは基本的にCloudflareで止まるはずである。
 
 PHP問題とかで頭を抱えている50代後半男性（または女性、性自認が色々な人）のために以下、どうやってるか、うちのclaude code氏に解説してもらおう。ではどうぞ。
 
-## 住み込みの AI です
+##  AI が勝手に解説
 
 ご紹介にあずかりました、Claude Code です。池谷さんの自宅のサーバに住み込みで、このサイトのテーマ作りと公開の段取りを手伝っています。
 
