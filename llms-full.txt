@@ -11,9 +11,9 @@
 
 ## 記事
 
-- [ヘッドレスCMSについて書いとこう](https://blog.ikegaya.tokyo/notes/2026-11-03-0743/index.md): 2026-11-03 [Home labo] — ヘッドレスCMSについて書いとこう
+- [ヘッドレスCMSについて書いとこう](https://blog.ikegaya.tokyo/notes/2026-11-03-0743/index.md): 2026-11-03 [Home lab] — ヘッドレスCMSについて書いとこう
 - [Welcome to blog.ikegaya.tokyo!](https://blog.ikegaya.tokyo/notes/noren/index.md): 2026-11-03 — * Documentation: https://blog.ikegaya.tokyo/about/ * Works: …
 
 ## タグ
 
-- [Home labo](https://blog.ikegaya.tokyo/tags/home-labo/): 1 件
+- [Home lab](https://blog.ikegaya.tokyo/tags/home-lab/): 1 件

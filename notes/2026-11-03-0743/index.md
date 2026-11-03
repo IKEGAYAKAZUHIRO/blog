@@ -2,7 +2,7 @@
 
 - URL: https://blog.ikegaya.tokyo/notes/2026-11-03-0743/
 - 公開: 2026-11-03
-- タグ: Home labo
+- タグ: Home lab
 - この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
 
 ---
