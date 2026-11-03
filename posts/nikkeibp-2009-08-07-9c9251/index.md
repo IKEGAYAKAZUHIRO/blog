@@ -2,7 +2,7 @@
 
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2009-08-07-9c9251/
 - 公開: 2009-08-07
-- タグ: 実績紹介, 池谷執筆, ケンプラッツ, 日経アーキテクチュア, 木造住宅, 実大振動実験, E-ディフェンス
+- タグ: 実績紹介, 池谷執筆, ケンプラッツ, 日経アーキテクチュア, 木造住宅, 実大実験, E-ディフェンス
 - この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
 - 元の仕事での関わり方: 執筆（本人が著者）
 

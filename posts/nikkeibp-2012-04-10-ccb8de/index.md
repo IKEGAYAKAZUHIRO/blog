@@ -2,7 +2,7 @@
 
 - URL: https://blog.ikegaya.tokyo/posts/nikkeibp-2012-04-10-ccb8de/
 - 公開: 2012-04-10
-- タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 実大火災実験
+- タグ: 実績紹介, 池谷執筆, 日経アーキテクチュア, 実大火災実験, 実大実験
 - この投稿を書いた人: ikegayakazuhiro（https://www.ikegaya.tokyo/ 、X: https://x.com/ikegayakazuhiro）
 - 元の仕事での関わり方: 執筆（本人が著者）
 
