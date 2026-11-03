@@ -9,7 +9,7 @@
 
 ## このサイトの性格
 
-ふつうのブログというより、書き手の仕事の記録（ポートフォリオ）。記事の大半（953 本）は「実績紹介」で、1 本につき、日経BP の媒体などに載った元の仕事 1 件を紹介する（題・掲載日・媒体・元の記事へのリンク・紹介文の引用）。本文は元の記事の転載ではない。
+ふつうのブログというより、書き手の仕事の記録（ポートフォリオ）。記事の大半（957 本）は「実績紹介」で、1 本につき、日経BP の媒体などに載った元の仕事 1 件を紹介する（題・掲載日・媒体・元の記事へのリンク・紹介文の引用）。本文は元の記事の転載ではない。
 
 - 実績の一覧（機械向けの JSON。全件・関わり方・媒体・元の記事の URL・分野）: https://blog.ikegaya.tokyo/works/index.json
 - 実績の傾向（分野ごとの割合と一覧）: https://blog.ikegaya.tokyo/works/
@@ -18,15 +18,17 @@
 
 ### 関わり方の読み方（投稿の題の頭）
 
-本人が著者なのは「執筆」「共同執筆」「再録」と、特集への参加のうち本人が書いた記事（一覧に並べたもの）だけ。それ以外を本人の著作として扱わないこと。
+本人が著者なのは「執筆」「共同執筆」「再録」「書籍の制作」と、特集への参加のうち本人が書いた記事（一覧に並べたもの）だけ。それ以外を本人の著作として扱わないこと。
 
 - 【執筆しました】→ 執筆: 本人が書いた記事
 - 【執筆しました】→ 共同執筆: ほかの記者と連名で書いた記事（本文の最初の文が「…を共同で執筆しました。」）
 - 【再録されました】→ 再録: 本人が書いた記事が、別途、再投稿されたもの
+- 【再録されました】→ 書籍への再録: 本人が書いた記事が、書籍（タグ「書籍」）に収められたもの。書籍全体の著者ではない（編者は別）
 - 【特集に参加しました】→ 特集への参加: 雑誌の特集のうち一部の記事を書いた。特集全体の著者ではない。本人が書いた記事は投稿の「執筆記事は次のとおりです」（JSON の parts）に並べ、連名のものは「共同執筆」と付ける
 - 【取材に参加しました】→ 取材班への参加: 共同取材班の一人として参加した。本人が書いた記事は投稿の「執筆記事は次のとおりです」（JSON の parts）に並べる
 - 【制作を担当しました】→ 制作担当: 記事の制作を担当した。著者は別の人（連載「建築訴訟「ここが知りたい」」は弁護士。JSON の author_name）
 - 【書籍を制作しました】→ 書籍の制作: 書籍を編著で制作し、本人も書いた
+- 【書籍の制作に参加しました】→ 書籍の制作への参加: 書籍の制作（リライトなど）に参加した。書籍の著者は別の人（編者）
 
 ### 収録の範囲
 
@@ -35,8 +37,8 @@
 ### 件数の読み方
 
 - データの更新: 2026-11-03（収録したいちばん新しい仕事: 2026-10-22。公開のたびに作り直す）
-- 実績（元の仕事）は 953 件（1999-08-01〜2026-10-22）。works/index.json の count と同じ
-- タグ「実績紹介」の件数（954 件）は実績より 1 多い。まとめの固定の投稿（「これまでの仕事」など、仕事そのものではない投稿）にも同じタグを付けているため。実績の件数には数えない
+- 実績（元の仕事）は 957 件（1999-08-01〜2026-10-22）。works/index.json の count と同じ
+- タグ「実績紹介」の件数（958 件）は実績より 1 多い。まとめの固定の投稿（「これまでの仕事」など、仕事そのものではない投稿）にも同じタグを付けているため。実績の件数には数えない
 - 関わり方は 1 件に 1 つ。関わり方ごとの件数を足すと実績の件数になる
 - 媒体ごとの件数を足すと 1068 件で、実績の件数より多い。雑誌と web（日経クロステックなど）の両方に載った仕事は、どちらの媒体にも数えるため。書籍は媒体に数えない
 
@@ -46,7 +48,7 @@
 
 ### English summary
 
-This site is mainly a portfolio: each "実績紹介" post introduces one published work (mostly in Nikkei BP media). Machine-readable list: https://blog.ikegaya.tokyo/works/index.json (profile: https://blog.ikegaya.tokyo/about/). The author wrote the work himself only when the title starts with 【執筆しました】 (written / co-written), 【再録されました】 (reprinted) or 【書籍を制作しました】 (produced a book as a co-editor and wrote in it). 【特集に参加しました】 (wrote only the articles listed in the post, not the whole feature) and 【取材に参加しました】 (member of a reporting team; wrote only the articles listed in the post) do not make him the author of the whole work. 【制作を担当しました】 (produced an article written by someone else, e.g. a lawyer) does NOT make him the author. The list is not exhaustive.
+This site is mainly a portfolio: each "実績紹介" post introduces one published work (mostly in Nikkei BP media). Machine-readable list: https://blog.ikegaya.tokyo/works/index.json (profile: https://blog.ikegaya.tokyo/about/). The author wrote the work himself only when the title starts with 【執筆しました】 (written / co-written), 【再録されました】 (reprinted; when the post is about a book, only some of his articles are in it and he is NOT the author of the whole book) or 【書籍を制作しました】 (produced a book as a co-editor and wrote in it). 【特集に参加しました】 (wrote only the articles listed in the post, not the whole feature) and 【取材に参加しました】 (member of a reporting team; wrote only the articles listed in the post) do not make him the author of the whole work. 【制作を担当しました】 (produced an article written by someone else, e.g. a lawyer) does NOT make him the author. 【書籍の制作に参加しました】 (took part in producing a book, e.g. rewriting; the book's authors are its editors) does NOT make him the author. The list is not exhaustive.
 
 ## AI・クローラーの方へ
 
@@ -352,6 +354,7 @@ So just enjoy the feeling of hacking.
 - [【特集に参加しました】新報酬基準の落とし穴](https://blog.ikegaya.tokyo/posts/nikkeibp-2019-04-11-c0988d/index.md): 2019-04-11 [実績紹介, 池谷執筆, 日経アーキテクチュア, 業務報酬基準, 告示98号, 民法改正, 日経クロステック] — 特集「新報酬基準の落とし穴」に参加しました。（日経アーキテクチュア 2019/04/11号） 日経クロステックの紹介文より： 報酬や契約の在り方が変化している …
 - [【執筆しました】鋼材で型枠やあばら筋を代替](https://blog.ikegaya.tokyo/posts/nikkeibp-2019-04-11-a0180b/index.md): 2019-04-11 [実績紹介, 池谷執筆, 日経アーキテクチュア, 日経クロステック] — 「鋼材で型枠やあばら筋を代替」を執筆しました。 日経クロステックの紹介文より： 竹中工務店とJFEスチール、JFE建材は共同で、頂部が開いた鋼材「ハット形鋼」に …
 - [【制作を担当しました】建築訴訟「ここが知りたい」：管理組合理事長には「原告適格なし」](https://blog.ikegaya.tokyo/posts/nikkeibp-2019-04-11-baa243/index.md): 2019-04-11 [実績紹介, 池谷制作担当, 日経アーキテクチュア, 建築訴訟「ここが知りたい」] — 連載「建築訴訟「ここが知りたい」」の「管理組合理事長には「原告適格なし」」の制作を担当しました。（日経アーキテクチュア 2019/04/11号。連載の第16回） …
+- [【再録されました】検証 平成建築史](https://blog.ikegaya.tokyo/posts/book-2019-04-01-heisei/index.md): 2019-04-01 [実績紹介, 書籍, 日経アーキテクチュア, 内藤廣] — 日経アーキテクチュアに書いた記事が、書籍『検証 平成建築史』（内藤廣＋日経アーキテクチュア著）に再録されました。（日経BP、2019年4月1日発行、B5判 …
 - [【執筆しました】高耐震住宅が基礎ごとずれる](https://blog.ikegaya.tokyo/posts/nikkeibp-2019-03-28-a27c80/index.md): 2019-03-28 [実績紹介, 池谷執筆, 日経アーキテクチュア, 日経ホームビルダー（休刊）, 実大振動実験, 熊本地震] — 「高耐震住宅が基礎ごとずれる」を執筆しました。 日経クロステックの紹介文より： 大地震で建物の位置が基礎ごとずれた─。熊本地震や北海道胆振東部地震など、近年発生 …
 - [【執筆しました】建築物でも「意匠登録」が可能に](https://blog.ikegaya.tokyo/posts/nikkeibp-2019-03-28-76c164/index.md): 2019-03-28 [実績紹介, 池谷執筆, 日経アーキテクチュア, 意匠法, 意匠登録, 日経クロステック] — 「建築物でも「意匠登録」が可能に」を執筆しました。 日経クロステックの紹介文より： 改正案の背景にあるのはデザイン投資の高まりだ。例えば他店舗展開するチェーン店 …
 - [【執筆しました】「ペンシルビル」の揺れを半減](https://blog.ikegaya.tokyo/posts/nikkeibp-2019-03-28-c80543/index.md): 2019-03-28 [実績紹介, 池谷執筆, 日経アーキテクチュア, 制振, 日経クロステック] — 「「ペンシルビル」の揺れを半減」を執筆しました。 日経クロステックの紹介文より： 鹿島は、高さ30〜60m程度のビル向けにコンパクト化したTMD（チューンド・マ …
@@ -490,9 +493,11 @@ So just enjoy the feeling of hacking.
 - [【執筆しました】ミューザ川崎の震災復旧工事を巡る訴訟が和解へ](https://blog.ikegaya.tokyo/posts/nikkeibp-2017-06-27-3b7d21/index.md): 2017-06-27 [実績紹介, 池谷執筆, 日経アーキテクチュア] — 「ミューザ川崎の震災復旧工事を巡る訴訟が和解へ」を執筆しました。 日経クロステックの紹介文より： 滋賀県は、水害の危険性が高い区域で建築を規制する流域治水推進条 …
 - [【執筆しました】木製床が裂け利用者に30㎝刺さる](https://blog.ikegaya.tokyo/posts/nikkeibp-2017-06-21-a26235/index.md): 2017-06-21 [実績紹介, 池谷執筆, 日経アーキテクチュア] — 「木製床が裂け利用者に30㎝刺さる」を執筆しました。 日経クロステックの紹介文より： 体育館で勢いよく木の床に滑り込んだところ、ささくれが刺さり、床が裂けて木片 …
 - [【執筆しました】「この建物は危険」地震後に健全性を自動判定](https://blog.ikegaya.tokyo/posts/nikkeibp-2017-06-21-a45634/index.md): 2017-06-21 [実績紹介, 池谷執筆, 日経アーキテクチュア] — 「「この建物は危険」地震後に健全性を自動判定」を執筆しました。 日経クロステックの紹介文より： 三井住友建設は、天井に設置したLED光源をデジタルカメラで撮影し …
+- [【再録されました】なぜ新耐震住宅は倒れたか 変わる家づくりの常識](https://blog.ikegaya.tokyo/posts/book-2016-08-29-shintaishin/index.md): 2016-08-29 [実績紹介, 書籍, 日経ホームビルダー（休刊）, 熊本地震, 耐震] — 日経ホームビルダーに書いた記事が、書籍『なぜ新耐震住宅は倒れたか 変わる家づくりの常識』（日経ホームビルダー編）に再録されました。（日経BP、2016年8月29 …
 - [【執筆しました】耐力が半減？ ビスの施工ミスが住宅性能の低下に影響](https://blog.ikegaya.tokyo/posts/nikkeibp-2016-05-19-1acb04/index.md): 2016-05-19 [実績紹介, 池谷執筆, 日経アーキテクチュア] — 「耐力が半減？ ビスの施工ミスが住宅性能の低下に影響」を共同で執筆しました。 日経クロステックの紹介文より： 地震に強い家づくりをするためには、正しく施工されて …
 - [【執筆しました】耐力壁が少ない家の壊れ方](https://blog.ikegaya.tokyo/posts/nikkeibp-2016-04-27-e44fb7/index.md): 2016-04-27 [実績紹介, 池谷執筆, 日経アーキテクチュア] — 「耐力壁が少ない家の壊れ方」を共同で執筆しました。 日経クロステックの紹介文より： 2004年から06年にかけて実施された一連の実大振動破壊実験を取り上げる。現 …
 - [【執筆しました】写真で見る2015年の10大ニュース](https://blog.ikegaya.tokyo/posts/nikkeibp-2015-12-24-87aa0f/index.md): 2015-12-24 [実績紹介, 池谷執筆, 日経アーキテクチュア, 免震偽装, 新国立競技場] — 「写真で見る2015年の10大ニュース」を執筆しました。 日経クロステックの紹介文より： 3月の免震偽装問題、7月の新国立競技場の計画見直し、10月の杭偽装問題 …
+- [【再録されました】「新国立」破綻の構図 当事者が語る内幕](https://blog.ikegaya.tokyo/posts/book-2015-12-15-shinkokuritsu/index.md): 2015-12-15 [実績紹介, 書籍, 日経アーキテクチュア, 新国立競技場] — 日経アーキテクチュアに書いた記事が、書籍『「新国立」破綻の構図 当事者が語る内幕』（日経アーキテクチュア編）に再録されました。（日経BP、2015年12月15日 …
 - [【執筆しました】「新国立」白紙撤回までの経緯：世論の反発で振り出しに戻った整備計画](https://blog.ikegaya.tokyo/posts/nikkeibp-2015-10-10-82d8c4/index.md): 2015-10-10 [実績紹介, 池谷執筆, 日経アーキテクチュア, 新国立競技場] — 「「新国立」白紙撤回までの経緯：世論の反発で振り出しに戻った整備計画」を執筆しました。 日経クロステックの紹介文より： 新国立競技場のデザインがザハ・ハディド案 …
 - [【執筆しました】工務店向け民間連合協定約款は設計契約前倒しに](https://blog.ikegaya.tokyo/posts/nikkeibp-2015-08-01-85c536/index.md): 2015-08-01 [実績紹介, 池谷執筆, ケンプラッツ, 日経ホームビルダー（休刊）, 工務店] — 「工務店向け民間連合協定約款は設計契約前倒しに」を執筆しました。 日経クロステックの紹介文より： 戸建て住宅などの標準的な契約書とされている「民間連合協定・小規 …
 - [【執筆しました】震災復興で地耐力不足、戸建ても不同沈下の恐れ](https://blog.ikegaya.tokyo/posts/nikkeibp-2015-07-09-f64dd6/index.md): 2015-07-09 [実績紹介, 池谷執筆, 日経アーキテクチュア, 東日本大震災, 不同沈下, 地盤改良] — 「震災復興で地耐力不足、戸建ても不同沈下の恐れ」を執筆しました。 日経クロステックの紹介文より： 東日本大震災の被災地で高台移転が本格化するなか、住宅再建に思わ …
@@ -766,6 +771,7 @@ So just enjoy the feeling of hacking.
 - [【執筆しました】2009年 国産材回帰が始まる](https://blog.ikegaya.tokyo/posts/nikkeibp-2009-01-01-35a793/index.md): 2009-01-01 [実績紹介, 池谷執筆, 日経ホームビルダー（休刊）, 国産材] — 「2009年 国産材回帰が始まる」を執筆しました。 日経クロステックの紹介文より： スギを中心とした国産木材への転換が、急速に始まろうとしている。きっかけはロシ …
 - [【執筆しました】建築基準法が想定する4号建築物とは？　木質構造の研究者・大橋好光教授に聞く](https://blog.ikegaya.tokyo/posts/nikkeibp-2008-12-09-ab5810/index.md): 2008-12-09 [実績紹介, 池谷執筆, ケンプラッツ] — 「建築基準法が想定する4号建築物とは？　木質構造の研究者・大橋好光教授に聞く」を執筆しました。 日経クロステックの紹介文より： 大胆なデザインを試みた戸建て木造 …
 - [【執筆しました】住宅特集 木造・4号で攻める：法改正や資材高騰に屈しない戸建て](https://blog.ikegaya.tokyo/posts/nikkeibp-2008-12-08-1a9760/index.md): 2008-12-08 [実績紹介, 池谷執筆, 日経アーキテクチュア, 建築基準法] — 「住宅特集 木造・4号で攻める：法改正や資材高騰に屈しない戸建て」を共同で執筆しました。 日経クロステックの紹介文より： 改正建築基準法の施行に伴う確認審査の長 …
+- [【書籍の制作に参加しました】ビルを建てる！ 建設事業の仕組み入門](https://blog.ikegaya.tokyo/posts/book-2008-12-01-biru/index.md): 2008-12-01 [実績紹介, 書籍, ゼネコン, 大林組] — 書籍『ビルを建てる！ 建設事業の仕組み入門』（大林組ＳＦＣプロジェクトチーム編）の制作に参加しました。（日経BP、2008年12月1日発行、A5判 240ページ …
 - [【執筆しました】現場で試す 金物の「実力」：接合補強金物](https://blog.ikegaya.tokyo/posts/nikkeibp-2008-12-01-12b103/index.md): 2008-12-01 [実績紹介, 池谷執筆, 日経ホームビルダー（休刊）] — 「現場で試す 金物の「実力」：接合補強金物」を執筆しました。 日経クロステックの紹介文より： 接合補強金物は、耐力や接合個所の違いで様々な製品がラインアップされ …
 - [【執筆しました】住宅事件簿：「グリン材の割れは欠陥でない」 住宅会社が敗訴した判決が確定](https://blog.ikegaya.tokyo/posts/nikkeibp-2008-12-01-f55712/index.md): 2008-12-01 [実績紹介, 池谷執筆, 日経ホームビルダー（休刊）, 住宅事件簿] — 「住宅事件簿：「グリン材の割れは欠陥でない」 住宅会社が敗訴した判決が確定」を執筆しました。 日経クロステックの紹介文より： 在来木造住宅の梁に未乾燥のグリン材 …
 - [【執筆しました】2棟取り壊し1棟減築、大阪・階数偽装の是正始まる](https://blog.ikegaya.tokyo/posts/nikkeibp-2008-11-17-3aba6d/index.md): 2008-11-17 [実績紹介, 池谷執筆, ケンプラッツ] — 「2棟取り壊し1棟減築、大阪・階数偽装の是正始まる」を執筆しました。 日経クロステックの紹介文より： 「階数偽装」が発覚した大阪市のマンションで、是正工事が始ま …
@@ -1031,10 +1037,10 @@ So just enjoy the feeling of hacking.
 
 ## タグ
 
-- [実績紹介](https://blog.ikegaya.tokyo/tags/%E5%AE%9F%E7%B8%BE%E7%B4%B9%E4%BB%8B/): 954 件
+- [実績紹介](https://blog.ikegaya.tokyo/tags/%E5%AE%9F%E7%B8%BE%E7%B4%B9%E4%BB%8B/): 958 件
 - [池谷執筆](https://blog.ikegaya.tokyo/tags/%E6%B1%A0%E8%B0%B7%E5%9F%B7%E7%AD%86/): 843 件
-- [日経アーキテクチュア](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2/): 391 件
-- [日経ホームビルダー（休刊）](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E4%BC%91%E5%88%8A/): 369 件
+- [日経アーキテクチュア](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2/): 393 件
+- [日経ホームビルダー（休刊）](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E4%BC%91%E5%88%8A/): 370 件
 - [ケンプラッツ](https://blog.ikegaya.tokyo/tags/%E3%82%B1%E3%83%B3%E3%83%97%E3%83%A9%E3%83%83%E3%83%84/): 161 件
 - [日経クロステック](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF/): 138 件
 - [建築訴訟「ここが知りたい」](https://blog.ikegaya.tokyo/tags/%E5%BB%BA%E7%AF%89%E8%A8%B4%E8%A8%9F%E3%81%93%E3%81%93%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84/): 109 件
@@ -1052,7 +1058,7 @@ So just enjoy the feeling of hacking.
 - [阪神大震災](https://blog.ikegaya.tokyo/tags/%E9%98%AA%E7%A5%9E%E5%A4%A7%E9%9C%87%E7%81%BD/): 17 件
 - [地盤](https://blog.ikegaya.tokyo/tags/%E5%9C%B0%E7%9B%A4/): 16 件
 - [建築確認](https://blog.ikegaya.tokyo/tags/%E5%BB%BA%E7%AF%89%E7%A2%BA%E8%AA%8D/): 15 件
-- [熊本地震](https://blog.ikegaya.tokyo/tags/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87/): 14 件
+- [熊本地震](https://blog.ikegaya.tokyo/tags/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87/): 15 件
 - [木造建築](https://blog.ikegaya.tokyo/tags/%E6%9C%A8%E9%80%A0%E5%BB%BA%E7%AF%89/): 12 件
 - [液状化](https://blog.ikegaya.tokyo/tags/%E6%B6%B2%E7%8A%B6%E5%8C%96/): 12 件
 - [雨漏り](https://blog.ikegaya.tokyo/tags/%E9%9B%A8%E6%BC%8F%E3%82%8A/): 12 件
@@ -1094,6 +1100,7 @@ So just enjoy the feeling of hacking.
 - [建材偽装](https://blog.ikegaya.tokyo/tags/%E5%BB%BA%E6%9D%90%E5%81%BD%E8%A3%85/): 5 件
 - [断熱材](https://blog.ikegaya.tokyo/tags/%E6%96%AD%E7%86%B1%E6%9D%90/): 5 件
 - [新潟県中越地震](https://blog.ikegaya.tokyo/tags/%E6%96%B0%E6%BD%9F%E7%9C%8C%E4%B8%AD%E8%B6%8A%E5%9C%B0%E9%9C%87/): 5 件
+- [書籍](https://blog.ikegaya.tokyo/tags/%E6%9B%B8%E7%B1%8D/): 5 件
 - [木造中高層](https://blog.ikegaya.tokyo/tags/%E6%9C%A8%E9%80%A0%E4%B8%AD%E9%AB%98%E5%B1%A4/): 5 件
 - [構造用合板](https://blog.ikegaya.tokyo/tags/%E6%A7%8B%E9%80%A0%E7%94%A8%E5%90%88%E6%9D%BF/): 5 件
 - [構造計算偽造](https://blog.ikegaya.tokyo/tags/%E6%A7%8B%E9%80%A0%E8%A8%88%E7%AE%97%E5%81%BD%E9%80%A0/): 5 件
@@ -1104,13 +1111,15 @@ So just enjoy the feeling of hacking.
 - [データ改ざん](https://blog.ikegaya.tokyo/tags/%E3%83%87%E3%83%BC%E3%82%BF%E6%94%B9%E3%81%96%E3%82%93/): 4 件
 - [建築物省エネ法](https://blog.ikegaya.tokyo/tags/%E5%BB%BA%E7%AF%89%E7%89%A9%E7%9C%81%E3%82%A8%E3%83%8D%E6%B3%95/): 4 件
 - [復旧](https://blog.ikegaya.tokyo/tags/%E5%BE%A9%E6%97%A7/): 4 件
+- [新国立競技場](https://blog.ikegaya.tokyo/tags/%E6%96%B0%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4/): 4 件
 - [KYB](https://blog.ikegaya.tokyo/tags/kyb/): 3 件
 - [公共建築物等木材利用促進法](https://blog.ikegaya.tokyo/tags/%E5%85%AC%E5%85%B1%E5%BB%BA%E7%AF%89%E7%89%A9%E7%AD%89%E6%9C%A8%E6%9D%90%E5%88%A9%E7%94%A8%E4%BF%83%E9%80%B2%E6%B3%95/): 3 件
 - [品質管理](https://blog.ikegaya.tokyo/tags/%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86/): 3 件
-- [新国立競技場](https://blog.ikegaya.tokyo/tags/%E6%96%B0%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4/): 3 件
 - [木造](https://blog.ikegaya.tokyo/tags/%E6%9C%A8%E9%80%A0/): 3 件
 - [都市木造](https://blog.ikegaya.tokyo/tags/%E9%83%BD%E5%B8%82%E6%9C%A8%E9%80%A0/): 3 件
 - [高層木造](https://blog.ikegaya.tokyo/tags/%E9%AB%98%E5%B1%A4%E6%9C%A8%E9%80%A0/): 3 件
+- [内藤廣](https://blog.ikegaya.tokyo/tags/%E5%86%85%E8%97%A4%E5%BB%A3/): 2 件
+- [大林組](https://blog.ikegaya.tokyo/tags/%E5%A4%A7%E6%9E%97%E7%B5%84/): 2 件
 - [業務報酬基準](https://blog.ikegaya.tokyo/tags/%E6%A5%AD%E5%8B%99%E5%A0%B1%E9%85%AC%E5%9F%BA%E6%BA%96/): 2 件
 - [法改正](https://blog.ikegaya.tokyo/tags/%E6%B3%95%E6%94%B9%E6%AD%A3/): 2 件
 - [省エネ](https://blog.ikegaya.tokyo/tags/%E7%9C%81%E3%82%A8%E3%83%8D/): 2 件
@@ -1127,6 +1136,7 @@ So just enjoy the feeling of hacking.
 - [ウッドショック](https://blog.ikegaya.tokyo/tags/%E3%82%A6%E3%83%83%E3%83%89%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF/): 1 件
 - [コンクリート](https://blog.ikegaya.tokyo/tags/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88/): 1 件
 - [スタジアム](https://blog.ikegaya.tokyo/tags/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0/): 1 件
+- [ゼネコン](https://blog.ikegaya.tokyo/tags/%E3%82%BC%E3%83%8D%E3%82%B3%E3%83%B3/): 1 件
 - [タワマン](https://blog.ikegaya.tokyo/tags/%E3%82%BF%E3%83%AF%E3%83%9E%E3%83%B3/): 1 件
 - [トルコ・シリア大地震](https://blog.ikegaya.tokyo/tags/%E3%83%88%E3%83%AB%E3%82%B3%E3%82%B7%E3%83%AA%E3%82%A2%E5%A4%A7%E5%9C%B0%E9%9C%87/): 1 件
 - [ドローン](https://blog.ikegaya.tokyo/tags/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/): 1 件
@@ -1140,13 +1150,11 @@ So just enjoy the feeling of hacking.
 - [修繕](https://blog.ikegaya.tokyo/tags/%E4%BF%AE%E7%B9%95/): 1 件
 - [免震建物](https://blog.ikegaya.tokyo/tags/%E5%85%8D%E9%9C%87%E5%BB%BA%E7%89%A9/): 1 件
 - [公共事業](https://blog.ikegaya.tokyo/tags/%E5%85%AC%E5%85%B1%E4%BA%8B%E6%A5%AD/): 1 件
-- [内藤廣](https://blog.ikegaya.tokyo/tags/%E5%86%85%E8%97%A4%E5%BB%A3/): 1 件
 - [効率化](https://blog.ikegaya.tokyo/tags/%E5%8A%B9%E7%8E%87%E5%8C%96/): 1 件
 - [告示8号](https://blog.ikegaya.tokyo/tags/%E5%91%8A%E7%A4%BA8%E5%8F%B7/): 1 件
 - [告示98号](https://blog.ikegaya.tokyo/tags/%E5%91%8A%E7%A4%BA98%E5%8F%B7/): 1 件
 - [地震](https://blog.ikegaya.tokyo/tags/%E5%9C%B0%E9%9C%87/): 1 件
 - [増築](https://blog.ikegaya.tokyo/tags/%E5%A2%97%E7%AF%89/): 1 件
-- [大林組](https://blog.ikegaya.tokyo/tags/%E5%A4%A7%E6%9E%97%E7%B5%84/): 1 件
 - [契約約款](https://blog.ikegaya.tokyo/tags/%E5%A5%91%E7%B4%84%E7%B4%84%E6%AC%BE/): 1 件
 - [巨大地震](https://blog.ikegaya.tokyo/tags/%E5%B7%A8%E5%A4%A7%E5%9C%B0%E9%9C%87/): 1 件
 - [平成史](https://blog.ikegaya.tokyo/tags/%E5%B9%B3%E6%88%90%E5%8F%B2/): 1 件
@@ -1162,7 +1170,6 @@ So just enjoy the feeling of hacking.
 - [施工](https://blog.ikegaya.tokyo/tags/%E6%96%BD%E5%B7%A5/): 1 件
 - [施設](https://blog.ikegaya.tokyo/tags/%E6%96%BD%E8%A8%AD/): 1 件
 - [日経SYSTEMS（休刊）](https://blog.ikegaya.tokyo/tags/%E6%97%A5%E7%B5%8Csystems%E4%BC%91%E5%88%8A/): 1 件
-- [書籍](https://blog.ikegaya.tokyo/tags/%E6%9B%B8%E7%B1%8D/): 1 件
 - [有名建築](https://blog.ikegaya.tokyo/tags/%E6%9C%89%E5%90%8D%E5%BB%BA%E7%AF%89/): 1 件
 - [模様替え](https://blog.ikegaya.tokyo/tags/%E6%A8%A1%E6%A7%98%E6%9B%BF%E3%81%88/): 1 件
 - [法制度](https://blog.ikegaya.tokyo/tags/%E6%B3%95%E5%88%B6%E5%BA%A6/): 1 件
@@ -1174,6 +1181,7 @@ So just enjoy the feeling of hacking.
 - [現場](https://blog.ikegaya.tokyo/tags/%E7%8F%BE%E5%A0%B4/): 1 件
 - [省エネ基準適合義務化](https://blog.ikegaya.tokyo/tags/%E7%9C%81%E3%82%A8%E3%83%8D%E5%9F%BA%E6%BA%96%E9%81%A9%E5%90%88%E7%BE%A9%E5%8B%99%E5%8C%96/): 1 件
 - [省力化](https://blog.ikegaya.tokyo/tags/%E7%9C%81%E5%8A%9B%E5%8C%96/): 1 件
+- [耐震](https://blog.ikegaya.tokyo/tags/%E8%80%90%E9%9C%87/): 1 件
 - [裁判](https://blog.ikegaya.tokyo/tags/%E8%A3%81%E5%88%A4/): 1 件
 - [観光](https://blog.ikegaya.tokyo/tags/%E8%A6%B3%E5%85%89/): 1 件
 - [設計報酬](https://blog.ikegaya.tokyo/tags/%E8%A8%AD%E8%A8%88%E5%A0%B1%E9%85%AC/): 1 件
