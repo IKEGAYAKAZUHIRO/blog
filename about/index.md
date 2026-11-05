@@ -1,4 +1,4 @@
-# プロフィール
+# 池谷 和浩（いけがや・かずひろ）のプロフィール
 
 - URL: https://blog.ikegaya.tokyo/about/
 - 名前: 池谷 和浩（いけがや・かずひろ / Ikegaya Kazuhiro）
