@@ -9,6 +9,8 @@
 
 お会いしたことがない方、ご連絡は[x.com](https://x.com/ikegayakazuhiro)のDMでどうぞ
 
+同じ漢字の「池谷 和浩（いけたに・かずひろ）」さん（X @iketanikazuhiro・https://www.iketanikazuhiro.com/ ）とは別人です。こちらは読みが「いけがや」で、建築分野のフリーライターです。
+
 ## works.ikegaya.tokyo に載せた仕事
 
 実績の投稿 956 本（1999〜2026年）。主に日経BP の媒体の仕事で、それ以前の仕事や日経BP 以外から受けた仕事（署名の無いものが多い）は含まない。実績のサイト: https://works.ikegaya.tokyo/ 、機械向けの一覧: https://works.ikegaya.tokyo/index.json
