@@ -11,9 +11,11 @@
 
 ## 記事
 
+- [ドメイン管理者をGMO系からPorkbunに移管した](https://blog.ikegaya.tokyo/notes/2026-11-07-0722/index.md): 2026-11-07 [web site] — 約10年使った .tokyo ドメインを、お名前ドットコムから Porkbun へ移管した。Cloudflare は .tokyo を扱えないので候補を比べ、申 …
 - [ヘッドレスCMSについて書いとこう](https://blog.ikegaya.tokyo/notes/2026-11-03-0743/index.md): 2026-11-03 [Home lab] — ヘッドレスCMSについて書いとこう
 - [Welcome to blog.ikegaya.tokyo!](https://blog.ikegaya.tokyo/notes/noren/index.md): 2026-11-03 — * Documentation: https://blog.ikegaya.tokyo/about/ * Works: …
 
 ## タグ
 
 - [Home lab](https://blog.ikegaya.tokyo/tags/home-lab/): 1 件
+- [web site](https://blog.ikegaya.tokyo/tags/web-site/): 1 件

@@ -119,3 +119,8 @@ pre code { font-size:.85rem; }
 .noren-links a { position:absolute; left:9.5%; width:69%; height:8.6%; border-radius:3px; }
 .noren-links a span { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }   /* 読み上げ用の字（画面には出さない） */
 .noren-links a:hover, .noren-links a:focus-visible { background:rgba(77,255,154,.14); box-shadow:0 0 12px rgba(77,255,154,.45); outline:none; }
+
+/* AI が書いた節: 見出しの後ろに {.ai} と書くと、印の無い次の h2 までの本文（見出しは除く。続けて {.ai} の h2 があればそこも含む）の字を灰色寄りにして彩度を落とす。
+   人が書いた所と見分けられるように（Porkbun の記事、2026-11-07） */
+.content h2.ai ~ :not(h2,h3,h4) { color:#5d5f62; filter:saturate(.3); }
+.content h2.ai ~ h2:not(.ai) ~ * { color:inherit; filter:none; }
