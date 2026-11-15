@@ -124,3 +124,22 @@ pre code { font-size:.85rem; }
    人が書いた所と見分けられるように（Porkbun の記事、2026-11-07） */
 .content h2.ai ~ :not(h2,h3,h4) { color:#5d5f62; filter:saturate(.3); }
 .content h2.ai ~ h2:not(.ai) ~ * { color:inherit; filter:none; }
+
+/* 一問一答のフキダシ（> [!Q] 聞き手 / > [!A] 池谷。layouts/_default/_markup/render-blockquote.html。2026-11-14）。
+   問いは左から、答えは少し右に寄せて色を変える。印と名前はフキダシの上、しっぽは名前の側 */
+.qa { margin:1.1rem 0; }
+.qa + .qa { margin-top:.6rem; }
+.qa-who { margin:0 0 .3rem; display:flex; align-items:center; gap:.45rem; font-size:.85rem; color:var(--muted); }
+.qa-mark { display:inline-grid; place-items:center; width:1.7rem; height:1.7rem; border-radius:50%;
+  font-family:var(--mono); font-weight:700; font-size:.9rem; color:#fff; background:var(--muted); }
+.qa-a .qa-mark { background:var(--prompt); }
+.qa-icon { width:1.7rem; height:1.7rem; border-radius:50%; object-fit:cover; border:1px solid var(--line); }
+.qa-hidden { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }   /* 名前が無いとき読み上げ用だけ */
+.qa-bubble { position:relative; padding:.65rem 1rem; border:1px solid var(--line); border-radius:12px; background:#fff; }
+.qa-bubble > :first-child { margin-top:0; }
+.qa-bubble > :last-child { margin-bottom:0; }
+.qa-bubble::before { content:""; position:absolute; top:-7px; left:.75rem; width:12px; height:12px;
+  background:inherit; border:1px solid var(--line); border-right:0; border-bottom:0; transform:rotate(45deg); }
+.qa-a { margin-left:2.2rem; }
+.qa-a .qa-bubble { background:#eef5ea; border-color:#cfe0c6; }
+@media (max-width:600px) { .qa-a { margin-left:1rem; } }
