@@ -124,6 +124,8 @@ pre code { font-size:.85rem; }
    人が書いた所と見分けられるように（Porkbun の記事、2026-11-07） */
 .content h2.ai ~ :not(h2,h3,h4) { color:#5d5f62; filter:saturate(.3); }
 .content h2.ai ~ h2:not(.ai) ~ * { color:inherit; filter:none; }
+/* 文の途中の AI が書いた字: 原稿で ==…== と囲む（hugo.toml の extras.mark）。蛍光ペンの色は付けず、{.ai} の節と同じ灰色寄りの字にする（2026-11-26） */
+.content mark { background:none; color:#5d5f62; }
 
 /* 一問一答のフキダシ（> [!Q] 聞き手 / > [!A] 池谷。layouts/_default/_markup/render-blockquote.html。2026-11-14）。
    問いは左から、答えは少し右に寄せて色を変える。印と名前はフキダシの上、しっぽは名前の側 */
@@ -143,3 +145,11 @@ pre code { font-size:.85rem; }
 .qa-a { margin-left:2.2rem; }
 .qa-a .qa-bubble { background:#eef5ea; border-color:#cfe0c6; }
 @media (max-width:600px) { .qa-a { margin-left:1rem; } }
+
+/* コードの窓の右上の「コピー」のボタン（assets/copy.js が付ける。2026-11-26） */
+.codebox { position:relative; }
+.codebox pre { padding-right:5.5rem; }
+.copy-btn { position:absolute; top:.45rem; right:.45rem; font:inherit; font-size:.75rem; line-height:1;
+  padding:.4em .7em; color:var(--fg); background:var(--bg); border:1px solid var(--line); border-radius:4px; cursor:pointer; }
+.copy-btn:hover { border-color:var(--muted); }
+.copy-btn:focus-visible { outline:2px solid var(--link); outline-offset:1px; }

@@ -11,6 +11,7 @@
 
 ## 記事
 
+- [Codexに手を出す](https://blog.ikegaya.tokyo/notes/2026-11-24-1640/index.md): 2026-11-25 [AI, Home lab] — Claude Code のガードレールに引っかかって自宅サーバの作業が止まり、OpenAI の Codex に手を出した。1カ月無料で試した使い心地と …
 - [チャットAIにとにかく褒めさせる](https://blog.ikegaya.tokyo/notes/2026-11-14-1439/index.md): 2026-11-15 [AI, web site] — サイトをつくったからにはせっかくだから誰かに褒めてほしい。AIにむちゃくちゃに褒めてもらった。
 - [突然サイトをつくった理由](https://blog.ikegaya.tokyo/notes/2026-11-11-0740/index.md): 2026-11-14 [web site, AI] — 自分の名前で検索しても、同姓同名の作家の方しか出てこない。検索結果に名前を1つ出すため、サイトを立てて llms.txt・JSON-LD・Wikidata など …
 - [Claude codeの基礎 of 基礎の話し](https://blog.ikegaya.tokyo/notes/2026-11-07-0851/index.md): 2026-11-08 [Home lab] — Claude Code を仕事に使うなら、初手は「何かやったら記録する」を仕組みにすること。フォルダと CLAUDE.md、.claude の違い、Git と …
@@ -20,6 +21,6 @@
 
 ## タグ
 
+- [AI](https://blog.ikegaya.tokyo/tags/ai/): 3 件
+- [Home lab](https://blog.ikegaya.tokyo/tags/home-lab/): 3 件
 - [web site](https://blog.ikegaya.tokyo/tags/web-site/): 3 件
-- [AI](https://blog.ikegaya.tokyo/tags/ai/): 2 件
-- [Home lab](https://blog.ikegaya.tokyo/tags/home-lab/): 2 件
